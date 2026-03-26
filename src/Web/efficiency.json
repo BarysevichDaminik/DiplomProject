@@ -1,0 +1,16 @@
+{
+  "RunDate": "2026-05-18T00:41:48.2070971+03:00",
+  "TotalTestsTime": 21.98,
+  "TestsRunCount": 1,
+  "TotalTestsCount": 4,
+  "ImpactedMethods": [
+    {
+      "FullName": "MyApp.Tests.SecurityTests.UserName_ShouldNotBeEmpty",
+      "Path": "tests/MyApp.Tests/SecurityTests.cs",
+      "Type": 0,
+      "ImpactReason": "Direct",
+      "PropagationLevel": 0
+    }
+  ],
+  "TimeSaved": 6.39
+}

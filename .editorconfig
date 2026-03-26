@@ -412,3 +412,20 @@ dotnet_diagnostic.VSTHRD003.severity = warning
 dotnet_diagnostic.VSTHRD100.severity = error
 
 csharp_style_var_when_type_is_apparent = true:suggestion
+
+dotnet_diagnostic.SA1200.severity = none
+
+dotnet_diagnostic.SA0001.severity = none
+
+dotnet_diagnostic.SA1600.severity = none
+dotnet_diagnostic.SA1601.severity = none
+dotnet_diagnostic.SA1602.severity = none
+dotnet_diagnostic.SA1633.severity = none
+dotnet_diagnostic.SA1210.severity = none
+dotnet_diagnostic.SA1000.severity = none
+dotnet_diagnostic.SA1413.severity = none
+dotnet_diagnostic.SA1009.severity = none
+dotnet_diagnostic.SA1010.severity = none
+dotnet_diagnostic.CA1707.severity = none
+dotnet_diagnostic.CA1707.severity = none
+dotnet_diagnostic.S1075.severity = none
